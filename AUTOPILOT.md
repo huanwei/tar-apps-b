@@ -1,2 +1,0 @@
-# Autopilot
-Demo marker: autopilot
